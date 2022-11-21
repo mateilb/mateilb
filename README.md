@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mateilb
+- 👀 I’m interested in informatics
+- 🌱 I’m currently learning C++
+- 📫 Reach me at balaur.matei@ichb.ro 
